@@ -22,7 +22,7 @@ void main() {
     case 'f':
     print('mark between 50 and 59');
     break;
-    
+   
     default :
     print('erorr in mark');
 
